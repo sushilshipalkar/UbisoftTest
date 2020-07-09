@@ -1,0 +1,8 @@
+C:\Sushil\testProject\WebApplication2\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+C:\Sushil\testProject\WebApplication2\Common\bin\Debug\netcoreapp2.0\Common.dll
+C:\Sushil\testProject\WebApplication2\Common\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Sushil\testProject\WebApplication2\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+C:\Sushil\testProject\WebApplication2\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+C:\Sushil\testProject\WebApplication2\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+C:\Sushil\testProject\WebApplication2\Common\obj\Debug\netcoreapp2.0\Common.dll
+C:\Sushil\testProject\WebApplication2\Common\obj\Debug\netcoreapp2.0\Common.pdb

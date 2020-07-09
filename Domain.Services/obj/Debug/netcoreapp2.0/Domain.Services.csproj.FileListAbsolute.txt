@@ -1,0 +1,14 @@
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Domain.Services.deps.json
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Domain.Services.dll
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Domain.Services.pdb
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Common.dll
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Domain.Repository.dll
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Domain.Repository.pdb
+C:\Sushil\testProject\WebApplication2\Domain.Services\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.csprojResolveAssemblyReference.cache
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.AssemblyInfoInputs.cache
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.AssemblyInfo.cs
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.csproj.CopyComplete
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.dll
+C:\Sushil\testProject\WebApplication2\Domain.Services\obj\Debug\netcoreapp2.0\Domain.Services.pdb

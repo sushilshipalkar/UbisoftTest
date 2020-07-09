@@ -1,0 +1,9 @@
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\bin\Debug\netcoreapp2.0\Domain.DomainEntities.deps.json
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\bin\Debug\netcoreapp2.0\Domain.DomainEntities.dll
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\bin\Debug\netcoreapp2.0\Domain.DomainEntities.pdb
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\obj\Debug\netcoreapp2.0\Domain.DomainEntities.csprojResolveAssemblyReference.cache
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\obj\Debug\netcoreapp2.0\Domain.DomainEntities.csproj.CoreCompileInputs.cache
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\obj\Debug\netcoreapp2.0\Domain.DomainEntities.AssemblyInfoInputs.cache
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\obj\Debug\netcoreapp2.0\Domain.DomainEntities.AssemblyInfo.cs
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\obj\Debug\netcoreapp2.0\Domain.DomainEntities.dll
+C:\Sushil\testProject\WebApplication2\Domain.DomainEntities\obj\Debug\netcoreapp2.0\Domain.DomainEntities.pdb

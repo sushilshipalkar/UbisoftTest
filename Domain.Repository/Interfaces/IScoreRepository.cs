@@ -14,6 +14,6 @@ namespace Domain.Repository.Interfaces
         List<ScoreDTO> getScoreById(int id);
 
         int insertScore(ScoreDTO playerData);
-	ScoreDTO getPlayerById(int id);
+	
     }
 }

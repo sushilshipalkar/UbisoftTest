@@ -22,7 +22,7 @@ namespace WebApplication2.Controllers
         }
 
         [HttpGet]
-        [Route("/api/GetScore/{id}")]
+        [Route("/api/GetScore")]
         public ScoreDTO GetScore(int id)
         {
            
@@ -68,33 +68,14 @@ namespace WebApplication2.Controllers
 
             return result;
         }
-	[HttpGet]
-        [Route("/api/PlayerData")]
-        public ScoreDTO getPlayerDataById(int id)
-        {
-
-
-            var result = new ScoreDTO();
-            try
-            {
-                result = _scoreService.getPlayerById(id);
-            }
-            catch (Exception e)
-            {
-
-                throw e;
-            }
-
-            return result;
-        }
-
+	
         /// <summary>
         ///  //Fetch stats for the logged in player
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
         [HttpGet]
-        [Route("/api/PlayerStats/{id}")]
+        [Route("/api/PlayerStats")]
         public List<ScoreDTO> PlayerStats(int id)
         {
 

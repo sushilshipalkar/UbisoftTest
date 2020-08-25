@@ -60,21 +60,7 @@ namespace Domain.Services.Services
             return result;
 
         }
-public ScoreDTO getPlayerById(int id)
-        {
-            var result = new ScoreDTO();
-            try
-            {
-                result = _scoreRepository.getPlayerById(id);
-            }
-            catch (Exception e)
-            {
 
-                throw e;
-            }
-
-            return result;
-        }
         public int insertScore(ScoreDTO playerData)
         {
             int id = 0;

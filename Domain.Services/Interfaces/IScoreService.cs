@@ -11,7 +11,6 @@ namespace Domain.Services.Interfaces
         int Score(int Id);
         List<ScoreDTO> getScoreByTime(DateTime playDateTime, string matchName);
         List<ScoreDTO> getScoreById(int id);
-        int insertScore(ScoreDTO playerData);
-	ScoreDTO getPlayerById(int id);
+        int insertScore(ScoreDTO playerData);	
     }
 }

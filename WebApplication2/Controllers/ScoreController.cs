@@ -93,25 +93,7 @@ namespace WebApplication2.Controllers
 
             return result;
         }
-	[HttpGet]
-        [Route("/api/PlayerData")]
-        public ScoreDTO getPlayerDataById(int id)
-        {
-
-
-            var result = new ScoreDTO();
-            try
-            {
-                result = _scoreService.getPlayerById(id);
-            }
-            catch (Exception e)
-            {
-
-                throw e;
-            }
-
-            return result;
-        }
+	
 
         /// <summary>
         ///  //insert player data

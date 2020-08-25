@@ -29,6 +29,11 @@ namespace WebApplication2
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            });
+
             services.AddTransient<IScoreService, ScoreService>();
             services.AddTransient<IScoreRepository, ScoreRepository>();
             services.AddMvc();
@@ -46,7 +51,7 @@ namespace WebApplication2
             {
                 app.UseDeveloperExceptionPage();
             }
-
+app.UseCors(options => options.AllowAnyOrigin());
             app.UseMvc();
         }
     }

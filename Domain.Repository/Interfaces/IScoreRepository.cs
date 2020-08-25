@@ -15,6 +15,6 @@ namespace Domain.Repository.Interfaces
 
         int insertScore(ScoreDTO playerData);
 
-
+	ScoreDTO getPlayerById(int id);
     }
 }

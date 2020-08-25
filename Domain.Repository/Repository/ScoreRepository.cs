@@ -68,6 +68,22 @@ namespace Domain.Repository.Repository
            return result;
 
        }
+public ScoreDTO getPlayerById(int id)
+       {
+           var result =new  ScoreDTO();
+           try
+           {
+               result = scoreList.FirstOrDefault(x=>x.ScoreId==id);
+           }
+           catch (Exception e)
+           {
+
+               throw e;
+           }
+
+           return result;
+
+       }
         public List<ScoreDTO> setData()
         {
 

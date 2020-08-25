@@ -119,7 +119,7 @@ namespace WebApplication2.Controllers
         }
 
 	[HttpGet]
-        public ScoreDTO Get(int id)
+        public IActionResult Get(int id)
         {
              ScoreDTO model= new ScoreDTO();
 
@@ -142,7 +142,7 @@ namespace WebApplication2.Controllers
                 throw;
             }
 
-            return model;
+            return Json(model);
 
 
 
